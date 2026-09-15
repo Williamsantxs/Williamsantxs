@@ -1,7 +1,6 @@
 ## William dos Santos
 
-Desenvolvedor web em Ubatuba/SP. Construo sites institucionais para clientes
-reais — do layout à publicação, incluindo domínio, hospedagem e manutenção.
+Desenvolvedor web em Ubatuba/SP. Construo sites institucionais — do layout à publicação, incluindo domínio, hospedagem e manutenção.
 
 Cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do
 Sul, com conclusão prevista para dezembro de 2026. **Buscando estágio ou
