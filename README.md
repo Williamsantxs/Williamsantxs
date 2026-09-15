@@ -8,6 +8,7 @@ Sul, com conclusão prevista para dezembro de 2026. **Buscando estágio ou
 posição de desenvolvedor júnior.**
 
 **Portfólio: [williamsantos.netlify.app](https://williamsantos.netlify.app)**
+
 ---
 
 ### Projetos
